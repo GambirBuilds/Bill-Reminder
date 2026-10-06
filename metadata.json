@@ -1,0 +1,7 @@
+{
+  "name": "Bill Reminder",
+  "description": "Never miss a payment again. Personal bill management and payment reminder platform for tracking upcoming bills, recurring expenses, subscriptions, and spending.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
