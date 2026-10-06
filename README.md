@@ -4,6 +4,7 @@
 > A modern, responsive personal bill management and payment reminder platform for tracking upcoming obligations, recurring expenses, subscriptions, and monthly spending.
 
 ---
+<img width="1907" height="904" alt="image" src="https://github.com/user-attachments/assets/750a4ae4-9dcb-43af-b05f-ecbe8558cc76" />
 
 ## 🌟 Features
 
